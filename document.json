@@ -18,12 +18,12 @@
       "enabled": true
     }
   ],
-  "buckets": [
-    "nasanex/NEX-DCP30",
-    "nasanex/NEX-GDDP",
-    "nasanex/LOCA",
-    "nasanex/MODIS",
-    "nasanex/Landsat"
+  "buckets": [    
+    "nasanex:/NEX-DCP30",
+    "nasanex:/NEX-GDDP",
+    "nasanex:/LOCA",
+    "nasanex:/MODIS",
+    "nasanex:/Landsat"
   ],
   "meta": {
     "Install time": [
